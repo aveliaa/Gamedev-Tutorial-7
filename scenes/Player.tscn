@@ -21,6 +21,7 @@ shape = SubResource( 1 )
 [node name="RayCast" type="RayCast" parent="Head"]
 transform = Transform( 0.987284, -0.131744, 0.0889583, 0.137977, 0.988101, -0.0679696, -0.0789452, 0.0793795, 0.993714, 0, 0, 0 )
 enabled = true
+cast_to = Vector3( 2, 0, 0 )
 script = ExtResource( 2 )
 
 [node name="MeshInstance" type="MeshInstance" parent="."]
