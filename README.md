@@ -1,0 +1,1 @@
+Tutorial dikerjakan hingga tuntas. Sudah mengimplementasikan Basic 3D Plane Movement, Object Interaction, Membuat Level 3D Menggunakan Constructive Solid Geometry, Membuat Level 3D Menggunakan CSG, Empty Room, Making 3D Objects, Coloring 3D Objects, Adding Obstacles, Adding Goal Condition, Using Signals, Adding It to the Level
